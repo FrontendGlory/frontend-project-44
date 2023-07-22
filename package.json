@@ -1,0 +1,24 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "'first hexlet js project'",
+  "main": "index.js",
+  "scripts": {
+    "test": "testing"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrontendGlory/frontend-project-44.git"
+  },
+  "keywords": [
+    "frontend",
+    "js",
+    "pet-project"
+  ],
+  "author": "Vyacheslav Erey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrontendGlory/frontend-project-44/issues"
+  },
+  "homepage": "https://github.com/FrontendGlory/frontend-project-44#readme"
+}

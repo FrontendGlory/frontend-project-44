@@ -9,9 +9,7 @@ test-coverage:
 
 lint:
 	npx eslint .
-
-.PHONY: test
-
+	
 brain-games:
 	node bin/brain-games.js
 

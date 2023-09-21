@@ -3,4 +3,4 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/326b5593f56e2f249c79/maintainability)](https://codeclimate.com/github/FrontendGlory/frontend-project-44/maintainability)
 
-[![Test Coverage](https://api.codeclimate.com/v1/badges/326b5593f56e2f249c79/test_coverage)](https://codeclimate.com/github/FrontendGlory/frontend-project-44/test_coverage)
+[![asciicast](https://asciinema.org/a/lIitJWnJjitVSwEcmHblhn2fP.svg)](https://asciinema.org/a/lIitJWnJjitVSwEcmHblhn2fP)

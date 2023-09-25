@@ -5,7 +5,7 @@
 
 # Brain games
 ____
-Mind Games is a set of five brain—boosting games. Each game asks three questions. After three correct answers in a row, it is considered that the game is over.
+Mind Games is a set of five brain-boosting games. Each game asks three questions. After three correct answers in a row, it is considered that the game is over.
 
  Presented games:
 - Calculator. Arithmetic expressions that need to be calculated.
@@ -25,7 +25,7 @@ npm link
 ```
 ## Games
 ____
-### - Brain Calc
+- ### Brain Calc
 It is necessary to calculate the sum, difference or composition of two numbers
 ####  Starting the game
 ```
@@ -34,7 +34,7 @@ It is necessary to calculate the sum, difference or composition of two numbers
 #### Presents
 
 [![asciicast](https://asciinema.org/a/lIitJWnJjitVSwEcmHblhn2fP.svg)](https://asciinema.org/a/lIitJWnJjitVSwEcmHblhn2fP)
-### - Brain progression
+- ### Brain progression
 It is necessary to calculate which number is "hidden" in the arithmetic progression
 
 #### Starting the game
@@ -45,7 +45,7 @@ It is necessary to calculate which number is "hidden" in the arithmetic progress
 
 [![asciicast](https://asciinema.org/a/LzTukn0x3XuvKt7X4q4rOtg7b.svg)](https://asciinema.org/a/LzTukn0x3XuvKt7X4q4rOtg7b)
 
-### - Brain even
+- ### Brain even
 
 #### Starting the game
 ```
@@ -53,7 +53,7 @@ It is necessary to calculate which number is "hidden" in the arithmetic progress
 ```
 [![asciicast](https://asciinema.org/a/tVGLTsbu1zQOFJRqQkeGHNj0C.svg)](https://asciinema.org/a/tVGLTsbu1zQOFJRqQkeGHNj0C)
 
-### - Brain gcd
+- ### Brain gcd
 
 It is necessary to determine the greatest common divisor of two numbers
 
@@ -67,7 +67,7 @@ It is necessary to determine the greatest common divisor of two numbers
 
 [![asciicast](https://asciinema.org/a/Z0dOa2ACm9lvoiWvx1umWL0ak.svg)](https://asciinema.org/a/Z0dOa2ACm9lvoiWvx1umWL0ak)
 
-### - Brain prime
+- ### Brain prime
 
 #### Starting the game 
 

@@ -17,7 +17,7 @@ Mind Games is a set of five brain-boosting games. Each game asks three questions
 ## Install
 ____
 ```
-git clone https://github.com/YuliyaSamoilenko/frontend-project-44.git
+git clone git@github.com:FrontendGlory/frontend-project-44.git
 cd frontend-project-44
 make install
 npm install

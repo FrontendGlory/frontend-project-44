@@ -32,6 +32,7 @@
   },
   "homepage": "https://github.com/FrontendGlory/frontend-project-44#readme",
   "dependencies": {
+    "lint": "^0.8.19",
     "readline-sync": "^1.4.10"
   },
   "devDependencies": {
